@@ -39,8 +39,10 @@
 ▶ [... view more](https://viblo.asia/u/ducnp/)
 
 ### 🚀 Skills
-- **Backend:** Java, Spring Boot, Python, Node.js  
-- **Frontend:** React.js, Vue.js  
+- **Backend:** Golang, Nodejs
+- **Frontend:** React.js, Vue.js
 - **Database:** DynamoDB, PostgreSQL, MySQL  
-- **DevOps:** Docker, AWS, K8S  
+- **DevOps:** Docker, K8S, Jenkins, Argocd
+- **AWS:** apigw, sqs, sns, lambda, s3, ses, ...
 - **Tools:** Kafka, Redis
+- **Observability:** Loki, Grafana, jeager, otel, 
