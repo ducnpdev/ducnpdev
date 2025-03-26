@@ -9,6 +9,11 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Tead Lead working for a HDBank in VietNam
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    + Build Microservices
+    + Design Architecture
+    + Break Task & Estimate Project
+    + Solve Problem With Member
+    + Apply New Tech
 - 📝 I regulary write technical articles for [hashnode](https://opendev.hashnode.dev/) and [viblo](https://viblo.asia/u/ducnp)
 - 💻 I use daily: **.go**,  **.sql**
 - 🧑‍💻 Tech I work on :
